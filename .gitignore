@@ -1,0 +1,14 @@
+# Ignorar o ambiente virtual
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos temporários
+*.log
+*.DS_Store
+
+# Pasta de resultado
+atividade_1_resultado/
